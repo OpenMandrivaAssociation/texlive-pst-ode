@@ -1,12 +1,12 @@
-# revision 32244
+# revision 33301
 # category Package
 # catalog-ctan /graphics/pstricks/contrib/pst-ode
-# catalog-date 2013-11-26 17:29:40 +0100
+# catalog-date 2014-03-27 19:23:13 +0100
 # catalog-license lppl
-# catalog-version 0.6
+# catalog-version 0.7
 Name:		texlive-pst-ode
-Version:	0.6
-Release:	6
+Version:	0.7
+Release:	1
 Summary:	Solving initial value problems for sets of Ordinary Differential Equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-ode
