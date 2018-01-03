@@ -1,12 +1,6 @@
-# revision 33301
-# category Package
-# catalog-ctan /graphics/pstricks/contrib/pst-ode
-# catalog-date 2014-03-27 19:23:13 +0100
-# catalog-license lppl
-# catalog-version 0.7
 Name:		texlive-pst-ode
-Version:	0.7
-Release:	4
+Version:	0.11
+Release:	1
 Summary:	Solving initial value problems for sets of Ordinary Differential Equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-ode
@@ -39,13 +33,10 @@ state vectors can be written as a table to a text file.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/dvips/pst-ode/pst-ode.pro
-%{_texmfdistdir}/tex/generic/pst-ode/pst-ode.tex
-%{_texmfdistdir}/tex/latex/pst-ode/pst-ode.sty
-%doc %{_texmfdistdir}/doc/generic/pst-ode/ChangeLog
-%doc %{_texmfdistdir}/doc/generic/pst-ode/README
-%doc %{_texmfdistdir}/doc/generic/pst-ode/pst-ode-doc.pdf
-%doc %{_texmfdistdir}/doc/generic/pst-ode/pst-ode-doc.tex
+%{_texmfdistdir}/dvips/pst-ode
+%{_texmfdistdir}/tex/generic/pst-ode
+%{_texmfdistdir}/tex/latex/pst-ode
+%doc %{_texmfdistdir}/doc/generic/pst-ode
 
 #-----------------------------------------------------------------------
 %prep
