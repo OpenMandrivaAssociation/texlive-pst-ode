@@ -1,6 +1,6 @@
 Name:		texlive-pst-ode
-Version:	65096
-Release:	2
+Version:	69296
+Release:	1
 Summary:	Solving initial value problems for sets of Ordinary Differential Equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-ode
