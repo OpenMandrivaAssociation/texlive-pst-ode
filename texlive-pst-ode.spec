@@ -3,7 +3,7 @@ Version:	69296
 Release:	1
 Summary:	Solving initial value problems for sets of Ordinary Differential Equations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-ode
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-ode
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-ode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-ode.doc.r%{version}.tar.xz
